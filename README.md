@@ -37,9 +37,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" height="40" alt="mongodb logo"/>
 </div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainabcodeplay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=zainabcodeplay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=zainabcodeplay&theme=dark&hide_border=false)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainabcodeplay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=450" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=zainabcodeplay&theme=dark&hide_border=false&include_all_commits=false&count_private=false&hide_title=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainabcodeplay&theme=dark&hide_border=false&hide_title=true" />
+
+</div>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
