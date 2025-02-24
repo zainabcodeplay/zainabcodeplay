@@ -10,7 +10,7 @@
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/zainabcodeplay) 
 
-# 💻 Tech Stack:
+# 💻 Languages & Tools:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" alt="HTML5 logo"/>
   <img width="12" />
